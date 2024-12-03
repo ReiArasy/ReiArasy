@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifqi Reissal Arasy</h1>
-<h3 align="center">A passionate Fullstack Engineer</h3>
+<h3 align="center">A passionate PHP | Full-Stack Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ReiArasy&label=Profile%20views&color=0e75b6&style=flat" alt="ReiArasy" /> </p>
