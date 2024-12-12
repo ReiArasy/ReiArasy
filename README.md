@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Tailwind CSS, Laravel**
+- 🌱 I’m currently learning **All**
 
-- 💬 Ask me about **Web, Algorithm, UI**
+- 💬 Ask me about **Software Technology**
 
 - 📫 How to reach me **rifqiarasyy@gmail.com**
 
