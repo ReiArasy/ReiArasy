@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **All**
 
-- 💬 Ask me about **Software Technology**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **rifqiarasyy@gmail.com**
 
