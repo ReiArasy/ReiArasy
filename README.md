@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Software Engineering student at Telkom University Surabaya, I bring a unique blend of academic rigor and hands-on experience to table, I Consistenly demonstrated my commitment to excellent throughout my academic journey.
 
 Experience allowed me to understand the intersection of technology and user experience, furthur enhancing my ability to deliver impactful solution. My passion for technology is matched only by my drive to continually learn and grow and i am eager to leverage my skills and experiences to contribute meaningfully to inovative projects and teams. 
