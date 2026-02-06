@@ -1,4 +1,4 @@
-#  About Me
+<h1 align="center">About Me</h1>
 <p align="justify">
 Software Engineering student at Telkom University Surabaya, I bring a unique blend of academic knowledge and hands-on experience. I have consistently demonstrated a strong commitment to excellence throughout my academic journey.
 </p>
