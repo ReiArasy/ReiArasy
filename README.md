@@ -1,10 +1,15 @@
 #  About Me
-Software Engineering student at Telkom University Surabaya, I bring a unique blend of academic rigor and hands-on experience to table, I Consistenly demonstrated my commitment to excellent throughout my academic journey.
+<p align="justify">
+Software Engineering student at Telkom University Surabaya, I bring a unique blend of academic knowledge and hands-on experience. I have consistently demonstrated a strong commitment to excellence throughout my academic journey.
+</p>
 
-Experience allowed me to understand the intersection of technology and user experience, furthur enhancing my ability to deliver impactful solution. My passion for technology is matched only by my drive to continually learn and grow and i am eager to leverage my skills and experiences to contribute meaningfully to inovative projects and teams. 
+<p align="justify">
+My experiences have allowed me to understand the intersection between technology and user experience, further strengthening my ability to deliver impactful solutions. My passion for technology is matched by my continuous drive to learn and grow. I am eager to leverage my skills and experiences to contribute meaningfully to innovative projects and collaborative teams.
+</p>
 
-Let’s connect and explore opportunities to collaborate and drive technological advancements
-
+<p align="justify">
+Let’s connect and explore opportunities to collaborate and drive technological advancements.
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rifqiarasyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rifqiarasy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27000056)
