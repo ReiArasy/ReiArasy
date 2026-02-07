@@ -51,6 +51,7 @@ Let’s connect and explore opportunities to collaborate and drive technological
 <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
 <img src="https://img.shields.io/badge/Flutter-%23026AA7.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-%23026AA7.svg?style=for-the-badge&logo=Dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 
 </p>
 
